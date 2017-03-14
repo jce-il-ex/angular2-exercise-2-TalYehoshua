@@ -1,0 +1,11 @@
+button {
+    border: none;
+    width: 20%;
+    padding: 1%;
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+    color: white;
+}
+
+
